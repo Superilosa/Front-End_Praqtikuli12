@@ -1,0 +1,19 @@
+.container{
+    padding: 60px 120px;
+    border: 2px solid green;
+    width: 300px;
+}
+.scale-field{
+    height: 20px;
+    width: 300px;
+    background-color: gainsboro;
+    border-radius: 50px;
+    position: relative;
+}
+.scale-pointer{
+    position: absolute;
+    height: 40px;
+    width: 10px;
+    background-color: orange;
+    top: -10px;
+}
